@@ -1,0 +1,21 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#8854
+    [34mall[39m: [
+      [34;4mApp\Models\Student[39;24m {#8273
+        [34mid[39m: [35m1[39m,
+        [34mname[39m: [32m"[39m[32mAna[39m[32m"[39m,
+        [34msurname[39m: [32m"[39m[32mPérez[39m[32m"[39m,
+        [34memail[39m: [32m"[39m[32mana@test.com[39m[32m"[39m,
+        [34mphone[39m: [36mnull[39m,
+        [34mdate_of_birth[39m: [32m"[39m[32m2000-01-01[39m[32m"[39m,
+        [34mcreated_at[39m: [32m"[39m[32m2026-11-25 14:57:00[39m[32m"[39m,
+        [34mupdated_at[39m: [32m"[39m[32m2026-11-25 14:57:00[39m[32m"[39m,
+        [34mpivot[39m: [34;4mIlluminate\Database\Eloquent\Relations\Pivot[39;24m {#8277
+          [34mcourse_id[39m: [35m1[39m,
+          [34mstudent_id[39m: [35m1[39m,
+          [34menrolled_at[39m: [32m"[39m[32m2026-11-25 14:57:12[39m[32m"[39m,
+          [34mcreated_at[39m: [32m"[39m[32m2026-11-25 14:57:12[39m[32m"[39m,
+          [34mupdated_at[39m: [32m"[39m[32m2026-11-25 14:57:12[39m[32m"[39m,
+        },
+      },
+    ],
+  }
